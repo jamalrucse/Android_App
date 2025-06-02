@@ -2,7 +2,7 @@
 This is a project of Mobile application development  CSE3132 Lab course
 
 # FlutterWeather
-### Updated to Flutter 3.0 & New Updated Design
+### Updated to Flutter 3.0 & New Updated Design and add average forecasting
 
 A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and using API from [OpenWeatherMap](https://openweathermap.org/)</br></br>
 
